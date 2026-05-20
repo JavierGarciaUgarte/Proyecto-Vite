@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-5.0-brightgreen.svg)
 
 ## 📖 Descripción
 
