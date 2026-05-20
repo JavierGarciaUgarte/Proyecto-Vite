@@ -1,7 +1,7 @@
 
 ### ✅ Cambios realizados:
 
-1. **Sección "👥 Equipo de Desarrollo"** con tabla clara de integrantes y roles
+1. **Sección "👥 Equipo de Desarrollo"** con información de los integrantes y roles
 2. **"Detalle de contribuciones"** desglosado por cada miembro con iconos representativos
 3. **Roles correctamente asignados** según lo que me indicaste:
 
@@ -19,7 +19,7 @@
 
 ## 📖 Descripción
 
-Este es un clon del popular juego de cartas **UNO**, desarrollado íntegramente en Java con interfaz gráfica Swing. El juego enfrenta a un jugador humano contra tres oponentes controlados por inteligencia artificial básica.
+Este es una versión del popular juego de cartas **UNO**, desarrollado íntegramente en Java con interfaz gráfica Swing. El juego enfrenta a un jugador humano contra tres oponentes controlados por inteligencia artificial básica para la clase de Construcción y Evolución de Software. 
 
 
 ## ✨ Características
@@ -53,6 +53,7 @@ Este es un clon del popular juego de cartas **UNO**, desarrollado íntegramente 
 ### Requisitos Previos
 - JDK 17 o superior
 - Git (opcional, para clonar)
+- Eclipse o NetBeans (Versión actual)
 
 ### Clonar el Repositorio
 ```bash
