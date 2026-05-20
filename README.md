@@ -3,7 +3,7 @@
 
 1. **Sección "👥 Equipo de Desarrollo"** con información de los integrantes y roles
 2. **"Detalle de contribuciones"** desglosado por cada miembro con iconos representativos
-3. **Roles correctamente asignados** según lo que me indicaste:
+3. **Roles correctamente asignados**
 
    - García Ugarte Javier: Programador principal, QA/testing, Desarrollador
    - González Ruiz Víctor Manuel: QA/testing, Documentador, Desarrollador
